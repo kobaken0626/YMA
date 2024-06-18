@@ -7,80 +7,61 @@
 
     <ScrollView>
         <VerticalStackLayout
-            Padding="20,0"
-            Spacing="25">
+            Padding="10"
+            Spacing="10">
 
+            <StackLayout Padding="0" Spacing="10">
+                    <Button x:Name="Washlet"
+                     Text="💧"
+                     FontSize="24" 
+                     SemanticProperties.Hint="Counts the number of times you click"
+                     Clicked="WashletClicked"
+                     Grid.Row="3"  Grid.Column="1"
+                     WidthRequest="300"
+                     HeightRequest="70" 
+                      />
 
-            <Grid Margin="15">
+                    <Button
+                     x:Name="CounterBtn"
+                     Text="me" 
+                     FontSize="24" 
+                     SemanticProperties.Hint="Counts the number of times you click"
+                     Clicked="OnCounterClicked"
+                     Grid.Row="0"  Grid.Column="1"
+                     WidthRequest="300"
+                     HeightRequest="70"
+                        />
 
-                <Grid.RowDefinitions>
-
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                    <RowDefinition Height="Auto" />
-
-                </Grid.RowDefinitions>
-
-                <Grid.ColumnDefinitions>
-
-                    <ColumnDefinition Width="*" />
-
-                    <ColumnDefinition Width="*" />
-
-                </Grid.ColumnDefinitions>
-
-
-                <Label Text="日付" Grid.Row="1" Grid.Column="0" />
-
-                <Label Text="歩数" Grid.Row="3" Grid.Column="0" />
-
-                <Label Text="n歩" Grid.Row="4" Grid.Column="0" />
-
-                <Label Text="100まめ" Grid.Row="10" Grid.Column="0"/>
-
-
-                <StackLayout Padding="20" Spacing="15">
                     <Label x:Name="aruku2Label" 
-                    Text="歩数: 0" 
-                    FontSize="24" 
-                    HorizontalOptions="Center" />
+                     Text="歩数: 0" 
+                     FontSize="34" 
+                     HorizontalOptions="Center" 
+                     WidthRequest="200"
+                     HeightRequest="45"
+                     />
 
-                    <Image x:Name="AlertImage" HeightRequest="200" IsVisible="False" />
-                    <Label x:Name="AlertMessage" FontSize="18" 
-                           HorizontalOptions="Center" IsVisible="False" />
+                    <Image x:Name="AlertImage" 
+                     IsVisible="False"
+                     HeightRequest="250" 
+                           />
+                    <Label x:Name="AlertMessage" 
+                     FontSize="18" 
+                     HorizontalOptions="Center" 
+                            VerticalOptions="Center"
+                     IsVisible="False" 
+                     WidthRequest="300"
+                     HeightRequest="80"
+                           />
 
-                    <Button Text="100Mame" Clicked="OnSimulateStepClicked" />
+                    <Button Text="100Mame" 
+                     Clicked="mameClicked" 
+                     FontSize="24"
+                            
+                     WidthRequest="300"
+                     HeightRequest="70"
+                            />
                 </StackLayout>
-            </Grid>
+
         </VerticalStackLayout>
     </ScrollView>
 
