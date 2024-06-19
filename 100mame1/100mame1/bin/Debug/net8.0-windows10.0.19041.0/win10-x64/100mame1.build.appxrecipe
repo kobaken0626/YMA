@@ -199,6 +199,9 @@
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dorae_mon.scale-100.png">
+      <PackagePath>dorae_mon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -213,6 +216,48 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\era_be.scale-100.jpg">
+      <PackagePath>era_be.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kare_osoma.scale-100.webp">
+      <PackagePath>kare_osoma.scale-100.webp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kimi_tama.scale-100.jpg">
+      <PackagePath>kimi_tama.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kuri_one.scale-100.jpg">
+      <PackagePath>kuri_one.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kur_s.scale-100.jpg">
+      <PackagePath>kur_s.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\man_bo.scale-100.jpg">
+      <PackagePath>man_bo.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\neo_hou.scale-100.jpg">
+      <PackagePath>neo_hou.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\oso_ma.scale-100.jpg">
+      <PackagePath>oso_ma.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rako_niku.scale-100.jpg">
+      <PackagePath>rako_niku.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ran_konan.scale-100.png">
+      <PackagePath>ran_konan.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ra_tom.scale-100.jpg">
+      <PackagePath>ra_tom.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rx_000.scale-100.jpg">
+      <PackagePath>rx_000.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tokoro_ten.scale-100.jpg">
+      <PackagePath>tokoro_ten.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zyuran_daru.scale-100.webp">
+      <PackagePath>zyuran_daru.scale-100.webp</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\100mame1.deps.json">
       <PackagePath>100mame1.deps.json</PackagePath>

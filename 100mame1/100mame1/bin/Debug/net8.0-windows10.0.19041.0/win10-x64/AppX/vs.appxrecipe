@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-29T04:53:51.956</Modified>
+      <Modified>2024-06-19T06:25:53.624</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-29T04:53:51.780</Modified>
+      <Modified>2024-06-19T06:02:14.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\100mame1.runtimeconfig.json">
       <PackagePath>100mame1.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\100mame1.dll">
       <PackagePath>100mame1.dll</PackagePath>
-      <Modified>2024-05-29T04:53:50.430</Modified>
+      <Modified>2024-06-19T06:25:53.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>100mame1.exe</PackagePath>
-      <Modified>2024-05-29T04:53:50.448</Modified>
+      <Modified>2024-06-19T06:25:53.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.101</Modified>
+      <Modified>2024-06-05T05:56:58.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.117</Modified>
+      <Modified>2024-06-05T05:56:58.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.141</Modified>
+      <Modified>2024-06-05T05:56:58.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.171</Modified>
+      <Modified>2024-06-05T05:56:58.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.298</Modified>
+      <Modified>2024-06-05T05:56:59.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -266,29 +266,89 @@
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-05-29T04:48:24.485</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dorae_mon.scale-100.png">
+      <PackagePath>dorae_mon.scale-100.png</PackagePath>
+      <Modified>2024-06-06T06:24:57.351</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.937</Modified>
+      <Modified>2024-06-10T04:38:01.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.951</Modified>
+      <Modified>2024-06-10T04:38:01.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.970</Modified>
+      <Modified>2024-06-10T04:38:01.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-05-29T04:48:23.995</Modified>
+      <Modified>2024-06-10T04:38:01.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-05-29T04:48:24.075</Modified>
+      <Modified>2024-06-10T04:38:01.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\era_be.scale-100.jpg">
+      <PackagePath>era_be.scale-100.jpg</PackagePath>
+      <Modified>2024-06-10T02:27:28.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kare_osoma.scale-100.webp">
+      <PackagePath>kare_osoma.scale-100.webp</PackagePath>
+      <Modified>2024-06-10T04:37:42.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kimi_tama.scale-100.jpg">
+      <PackagePath>kimi_tama.scale-100.jpg</PackagePath>
+      <Modified>2024-06-07T05:45:11.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kuri_one.scale-100.jpg">
+      <PackagePath>kuri_one.scale-100.jpg</PackagePath>
+      <Modified>2024-06-07T05:41:12.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kur_s.scale-100.jpg">
+      <PackagePath>kur_s.scale-100.jpg</PackagePath>
+      <Modified>2024-06-04T02:00:51.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\man_bo.scale-100.jpg">
+      <PackagePath>man_bo.scale-100.jpg</PackagePath>
+      <Modified>2024-06-07T05:07:27.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\neo_hou.scale-100.jpg">
+      <PackagePath>neo_hou.scale-100.jpg</PackagePath>
+      <Modified>2024-06-06T02:15:16.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\oso_ma.scale-100.jpg">
+      <PackagePath>oso_ma.scale-100.jpg</PackagePath>
+      <Modified>2024-06-10T04:33:48.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rako_niku.scale-100.jpg">
+      <PackagePath>rako_niku.scale-100.jpg</PackagePath>
+      <Modified>2024-06-06T06:27:11.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ran_konan.scale-100.png">
+      <PackagePath>ran_konan.scale-100.png</PackagePath>
+      <Modified>2024-06-06T06:24:24.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ra_tom.scale-100.jpg">
+      <PackagePath>ra_tom.scale-100.jpg</PackagePath>
+      <Modified>2024-06-05T06:59:19.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rx_000.scale-100.jpg">
+      <PackagePath>rx_000.scale-100.jpg</PackagePath>
+      <Modified>2024-06-05T06:56:08.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tokoro_ten.scale-100.jpg">
+      <PackagePath>tokoro_ten.scale-100.jpg</PackagePath>
+      <Modified>2024-06-06T06:26:39.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zyuran_daru.scale-100.webp">
+      <PackagePath>zyuran_daru.scale-100.webp</PackagePath>
+      <Modified>2024-06-10T01:21:04.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\source\repos\100mame1\100mame1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\100mame1.deps.json">
       <PackagePath>100mame1.deps.json</PackagePath>
-      <Modified>2024-05-29T04:53:51.337</Modified>
+      <Modified>2024-06-19T06:02:14.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kobak\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

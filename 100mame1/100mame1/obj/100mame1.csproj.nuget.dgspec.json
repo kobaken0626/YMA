@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kobak\\YMA\\100mame1\\100mame1\\100mame1.csproj": {}
+    "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kobak\\YMA\\100mame1\\100mame1\\100mame1.csproj": {
+    "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kobak\\YMA\\100mame1\\100mame1\\100mame1.csproj",
+        "projectUniqueName": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj",
         "projectName": "100mame1",
-        "projectPath": "C:\\Users\\kobak\\YMA\\100mame1\\100mame1\\100mame1.csproj",
+        "projectPath": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj",
         "packagesPath": "C:\\Users\\kobak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kobak\\YMA\\100mame1\\100mame1\\obj\\",
+        "outputPath": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -47,6 +47,7 @@
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
+		<MauiImage Update="Resources\Images\dotnet_bot.png" Resize="True" BaseSize="300,185" />
 
 		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />
@@ -57,7 +58,6 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\dorae_mon.png" />
-	  <None Remove="Resources\Images\dotnet_bot.png" />
 	  <None Remove="Resources\Images\era_be.jpg" />
 	  <None Remove="Resources\Images\kare_osoma.webp" />
 	  <None Remove="Resources\Images\kimi_tama.jpg" />
@@ -71,7 +71,6 @@
 	  <None Remove="Resources\Images\ra_tom.jpg" />
 	  <None Remove="Resources\Images\rx_000.jpg" />
 	  <None Remove="Resources\Images\tokoro_ten.jpg" />
-	  <None Remove="Resources\Images\zyuran_daru.webp" />
 	</ItemGroup>
 
 	<ItemGroup>
