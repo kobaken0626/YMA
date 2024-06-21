@@ -170,7 +170,6 @@ C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kur_s.scale-100.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rx_000.scale-100.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ra_tom.scale-100.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\neo_hou.scale-100.jpg
@@ -191,3 +190,5 @@ C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\kita.scale-100.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ha.scale-100.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iwaiki.scale-100.jpg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\20230324140630.scale-100.jpeg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\o1652092915227046724.scale-100.jpg

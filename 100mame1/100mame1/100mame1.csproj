@@ -56,6 +56,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\20230324140630.jpeg" />
 	  <None Remove="Resources\Images\ahuro.jpg" />
 	  <None Remove="Resources\Images\dare_kowai.jpg" />
 	  <None Remove="Resources\Images\dorae_mon.png" />
@@ -65,9 +66,9 @@
 	  <None Remove="Resources\Images\kare_osoma.webp" />
 	  <None Remove="Resources\Images\kita.jpg" />
 	  <None Remove="Resources\Images\kuri_one.jpg" />
-	  <None Remove="Resources\Images\kur_s.jpg" />
 	  <None Remove="Resources\Images\man_bo.jpg" />
 	  <None Remove="Resources\Images\neo_hou.jpg" />
+	  <None Remove="Resources\Images\o1652092915227046724.jpg" />
 	  <None Remove="Resources\Images\oso_ma.jpg" />
 	  <None Remove="Resources\Images\pa_suta.jpg" />
 	  <None Remove="Resources\Images\rako_niku.jpg" />

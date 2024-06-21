@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\100mame1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -51,10 +59,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|c:\\users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{9F735D29-6C2A-4FFB-A2CF-7814CDD79BCB}|100mame1\\100mame1.csproj|solutionrelative:100mame1\\100mame1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,11 +94,11 @@
         },
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "100mame1",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj",
               "RelativeDocumentMoniker": "100mame1\\100mame1.csproj",
@@ -102,11 +106,12 @@
               "RelativeToolTip": "100mame1\\100mame1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-29T04:48:47.07Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\MauiProgram.cs",
               "RelativeDocumentMoniker": "100mame1\\MauiProgram.cs",
@@ -115,11 +120,25 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T04:48:55.796Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "R.java",
+              "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java",
+              "RelativeDocumentMoniker": "100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java",
+              "ToolTip": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java",
+              "RelativeToolTip": "100mame1\\obj\\Debug\\net8.0-android\\android\\src\\com\\companyname\\x100mame1\\R.java",
+              "ViewState": "AQIAAIMsAAAAAAAAAAAmwI4sAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-21T05:48:23.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,26 +148,27 @@
               "RelativeDocumentMoniker": "100mame1\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\MainPage.xaml.cs",
               "RelativeToolTip": "100mame1\\MainPage.xaml.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAgwHoAAAAMAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAADwv3sAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T04:53:30.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\MainPage.xaml",
               "RelativeDocumentMoniker": "100mame1\\MainPage.xaml",
               "ToolTip": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\MainPage.xaml",
               "RelativeToolTip": "100mame1\\MainPage.xaml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAaAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAABFwCwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-31T06:44:37.66Z"
+              "WhenOpened": "2024-05-31T06:44:37.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\App.xaml.cs",
               "RelativeDocumentMoniker": "100mame1\\App.xaml.cs",
@@ -156,11 +176,12 @@
               "RelativeToolTip": "100mame1\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T04:37:51.83Z"
+              "WhenOpened": "2024-05-31T04:37:51.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\App.xaml",
               "RelativeDocumentMoniker": "100mame1\\App.xaml",
@@ -168,11 +189,12 @@
               "RelativeToolTip": "100mame1\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-29T04:48:48.283Z"
+              "WhenOpened": "2024-05-29T04:48:48.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\AppShell.xaml",
               "RelativeDocumentMoniker": "100mame1\\AppShell.xaml",
@@ -180,11 +202,12 @@
               "RelativeToolTip": "100mame1\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-31T06:40:44.866Z"
+              "WhenOpened": "2024-05-31T06:40:44.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "100mame1\\AppShell.xaml.cs",
@@ -192,11 +215,12 @@
               "RelativeToolTip": "100mame1\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T05:58:15.775Z"
+              "WhenOpened": "2024-05-31T05:58:15.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "100mame1\\Platforms\\Android\\MainApplication.cs",
@@ -204,11 +228,12 @@
               "RelativeToolTip": "100mame1\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAwAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:34:25.512Z"
+              "WhenOpened": "2024-06-19T05:34:25.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "100mame1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
@@ -216,11 +241,12 @@
               "RelativeToolTip": "100mame1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAkwEoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T06:10:59.725Z"
+              "WhenOpened": "2024-06-06T06:10:59.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "OpenSans-Semibold.ttf",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\Resources\\Fonts\\OpenSans-Semibold.ttf",
               "RelativeDocumentMoniker": "100mame1\\Resources\\Fonts\\OpenSans-Semibold.ttf",
@@ -231,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Xamarin.Android.Common.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
@@ -239,11 +265,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Common.targets",
               "ViewState": "AQIAAMsEAAAAAAAAAAAiwM4FAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-07T07:00:49.252Z"
+              "WhenOpened": "2024-06-07T07:00:49.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Microsoft.Maui.Resizetizer.After.targets",
               "DocumentMoniker": "C:\\Users\\kobak\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
@@ -251,11 +278,12 @@
               "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "ViewState": "AQIAAF0CAAAAAAAAAAAiwGcCAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-04T06:24:36.677Z"
+              "WhenOpened": "2024-06-04T06:24:36.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "100mame1.csproj",
               "DocumentMoniker": "C:\\Users\\kobak\\source\\repos\\100mame1\\100mame1\\100mame1.csproj",
               "RelativeDocumentMoniker": "100mame1\\100mame1.csproj",
@@ -263,7 +291,8 @@
               "RelativeToolTip": "100mame1\\100mame1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T06:51:30.138Z"
+              "WhenOpened": "2024-06-04T06:51:30.138Z",
+              "EditorCaption": ""
             }
           ]
         }

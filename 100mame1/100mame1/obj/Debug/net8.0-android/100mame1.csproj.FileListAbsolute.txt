@@ -1053,3 +1053,8 @@ C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetiz
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\dare_kowai.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\pa_suta.jpg
 C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\sira_ishi.jpg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\20230324140630.jpeg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\ha.jpg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\iwaiki.jpg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\kita.jpg
+C:\Users\kobak\source\repos\100mame1\100mame1\obj\Debug\net8.0-android\resizetizer\r\drawable\o1652092915227046724.jpg
